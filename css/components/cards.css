@@ -1,0 +1,40 @@
+
+.container {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.text-center {
+  color: rgb(70,70,70)
+}
+.cards {
+  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+  width: 860px;
+  margin: 0 auto;
+}
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card img {
+  height: 100px;
+  width: 130px;
+  color: green;
+}
+
+.card h4 {
+  color: rgb(70,70,70);
+}
+.card p {
+  color: rgb(90,90,90);
+}
+
+
+
