@@ -4,9 +4,9 @@
 /* Fontawesome */
 @import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
 
-@import url("/css/components/cards.css");
-@import url("/css/components/banner.css");
-@import url("/css/components/footer.css");
+@import url(/css/components/cards.css);
+@import url(/css/components/banner.css);
+@import url(/css/components/footer.css);
 /* Utilities */
 body {
   margin: 0;
